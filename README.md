@@ -1,2 +1,2 @@
-# Hilos-en-C
-Códigos de ejercicios con hilos en C
+# Threads
+Thread exercises in C
